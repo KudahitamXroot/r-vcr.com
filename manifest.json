@@ -1,0 +1,58 @@
+{
+  "short_name": "ALEXA99",
+  "name": "ALEXA99",
+  "icons": [
+    {
+      "src": "https://r-vcr.com/assets/images/iconalexa.webp",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://r-vcr.com/assets/images/iconalexa.webp",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://r-vcr.com/assets/images/iconalexa.webp",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "https://r-vcr.com/",
+  "start_url": "https://r-vcr.com/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "https://r-vcr.com/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "ALEXA99",
+      "short_name": "ALEXA99",
+      "description": "ALEXA99 APP Game Slot Online Gacor Mudah M@xwin",
+      "url": "https://r-vcr.com/",
+      "icons": [{ "src": "https://r-vcr.com/assets/images/iconalexa.webp", "sizes": "192x192" }]
+    },
+    {
+      "name": "ALEXA99",
+      "short_name": "ALEXA99",
+      "description": "ALEXA99: Situs Game Slot Online Gacor Mudah M@xwin",
+      "url": "https://r-vcr.com/",
+      "icons": [{ "src": "https://r-vcr.com/assets/images/iconalexa.webp", "sizes": "192x192" }]
+    }
+  ],
+  "description": "ALEXA99",
+  "screenshots": [
+    {
+      "src": "https://r-vcr.com/assets/images/iconalexa.webp",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://r-vcr.com/assets/images/iconalexa.webp",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
